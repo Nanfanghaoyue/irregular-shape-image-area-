@@ -1,2 +1,2 @@
 # irregular-shape-image-area-
-conculate irregular shape image area
+irregular shape image area
